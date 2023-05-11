@@ -1,0 +1,8 @@
+{
+    "source": "TwinCAT Analytics Logger",
+    "layout": "{E295975C-F7A9-E0BC-F394-FF71F8635A1B}",
+    "cycleTime": 100000,
+    "dataSize": 612,
+    "systemId": "{D04C95DD-1585-21E1-A2CD-82444ED91651}",
+    "utcTimeOffs": 11
+}
